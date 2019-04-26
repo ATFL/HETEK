@@ -13,7 +13,7 @@
 # values will need to be found for each unique servo motor, and these values can be 
 # found by experimenting with the commanded positions.
 
-import RPI.GPIO as GPIO
+import RPi.GPIO as GPIO
 import time
 
 LAPin = 16
